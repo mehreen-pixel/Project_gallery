@@ -41,7 +41,7 @@ This is a fully responsive personal portfolio website created using HTML, CSS, a
 
 ## Live Demo
 
-Click here to view the project 
+Click here to view the project  https://github.com/mehreen-pixel/Project_gallery.git
 
 
 ##  Author
